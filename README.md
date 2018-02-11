@@ -4,4 +4,4 @@
 
 This bukkit plugin is easy to build and play minigame on minecraft.
 
-- [Download:https://github.com/Densyakun/BukkitPlugin_MiniGameManager/releases]
+- [Download](https://github.com/Densyakun/BukkitPlugin_MiniGameManager/releases)
