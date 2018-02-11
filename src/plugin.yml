@@ -1,0 +1,7 @@
+name: MiniGameManager
+main: io.github.densyakun.bukkit.minigamemanager.Main
+version: 1.0
+author: Densyakun
+website: http://densyakuncreate.wiki.fc2.com/
+commands:
+  game:
